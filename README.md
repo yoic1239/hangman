@@ -1,7 +1,7 @@
 # Hangman
 It is a command line Hangman game built with Ruby.
 ## How to play
-1. Run ```ruby lib/hangman.rb```
+1. Run ```ruby lib/hangman.rb``` in your command line.
 2. If there is any saved game, it will ask you whether to load the saved game. Press "Y" to load saved game or press "N" to start new game.
 ```
 You have a saved game. Do you want to continue to play? (Y/N)
